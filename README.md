@@ -1,1 +1,2 @@
-https://taratakos.github.io/rsschool-cvg/cv
+https://taratakos.github.io/rsschool-cv/cv
+git
