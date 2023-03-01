@@ -60,3 +60,19 @@ const calculateTotalPrice = function (items) {
 
 console.log(calculateTotalPrice([54, 28, 105, 70, 92, 17, 120])); // 486
 ```
+
+## Education
+
+- LVIV POLYTECHNIC NATIONAL UNIVERSITY \* Sep 2007 – Dec 2012 Specialist, Lviv Polytechnic National University.
+  Institute of Energy and Control Systems. Department of Electro Mechatronics and Computerized Electro Mechanical Systems.
+- GO IT / Mate academy _(Demo courses)_
+- Udemy
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8312878?start=150#content)
+- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+
+## Languages
+
+- Ukrainian - native speaker;
+- English - B2;
+- Polish - C2;
